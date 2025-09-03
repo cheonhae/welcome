@@ -21,6 +21,9 @@ https://www.google.com/
 - 전사 구성원이 생성형 AI를 업무에 활용할 수 있다
 - 생성형 AI의 가장 기초적인 내용을 이해할 수 있다
 
+## 구글 드라이브 링크
+https://buly.kr/1utJSg
+
 ## 수업 참여 패들렛
 https://padlet.com/eunsolcho1/padlet-ql7zyltf8q3u41hq
 - 여러분의 적극적인 참여 부탁드립니다.
