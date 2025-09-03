@@ -11,6 +11,8 @@ https://forms.gle/8hf1nU8h31A6RT456
 https://married-spot-253.notion.site/00-Chrome-21a3cb37136a80019f06ebe29a0df6a5
 
 2. 교육용 google ID를 만들어 주세요. 
+
+https://www.google.com/
 - 교육 중 다양한 AI 서비스에 빠르게 가입할 수 있습니다.
 
 ## 강의 목표
