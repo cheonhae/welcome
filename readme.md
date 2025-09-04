@@ -15,6 +15,10 @@ https://married-spot-253.notion.site/00-Chrome-21a3cb37136a80019f06ebe29a0df6a5
 https://www.google.com/
 - 교육 중 다양한 AI 서비스에 빠르게 가입할 수 있습니다.
 
+3. 교육용 구글 이메일 주소를 기입해주세요. 
+- https://docs.google.com/spreadsheets/d/1IVk5d9x2md12JwbLgObjlWWwB29bjHbewDMHxaGpCKU/edit?usp=sharing
+  
+
 ## 강의 목표
 
 ### 교육 목적 및 수준
